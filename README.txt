@@ -12,7 +12,7 @@ A	          A	                        T
 G	          G	                        C
 C	          C	                        G
 T	          T	                        A
-U   	      U	                        A
+U           U                         A
 R	          A or G, purine	          Y, pyrimidine
 Y	          C or T, pyrimidine	      R, purine
 S	          C or G, strong pairing	  S, unchanged
