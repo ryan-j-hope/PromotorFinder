@@ -7,21 +7,21 @@ A search algorithm for discovery of promotor sequences
 
 
 
-Code	      Nucleotides	              Complement
-A	          A	                        T
-G	          G	                        C
-C	          C	                        G
-T	          T	                        A
-U           U                         A
-R	          A or G, purine	          Y, pyrimidine
-Y	          C or T, pyrimidine	      R, purine
-S	          C or G, strong pairing	  S, unchanged
-W	          A or T, weak pairing	    W, unchanged
-K	          G or T, keto	            M, amino
-M	          A or C, amino	            K, keto
-B	          C or G or T,              not A	V, not T
-V	          A or C or G,              not T	B, not A
-D	          A or G or T,              not C	H, not G
-H	          A or C or T,              not G	D, not C
--	          gap	                      unchanged
-any other	  any or unknown	          unchanged
+Code				Nucleotides				Complement
+A					A						T
+G					G						C
+C					C						G
+T					T						A
+U					U						A
+R					A or G, purine			Y, pyrimidine
+Y					C or T, pyrimidine		R, purine
+S					C or G, strong pairing	S, unchanged
+W					A or T, weak pairing	W, unchanged
+K					G or T, keto			M, amino
+M					A or C, amino			K, keto
+B					C or G or T,			not A	V, not T
+V					A or C or G,			not T	B, not A
+D					A or G or T,			not C	H, not G
+H					A or C or T,			not G	D, not C
+-					gap						unchanged
+any other			any or unknown			unchanged
