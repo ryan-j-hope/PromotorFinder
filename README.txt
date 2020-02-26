@@ -3,7 +3,11 @@ A search algorithm for discovery of promotor sequences
 
 #Ambiguity codes
 
-#Ambiquity codes are codes that mean any of the two or any of the three nucleotides. Normally, purine (R, A or G) is complemented into pyrimidine (Y, C or T) and amino (M, C or A) is complemented into keto (K, T or G). Differently, weak (W, A or T, pairs with the two hydrogen bonds) and strong (S, G or C, pairs with three hydrogen bonds) are normally not swapped during complementation, leaving the S and W codes unchanged instead. This is logical as both a nucleotide and its complement use the same number of bonds to make a complementing pair.
+#Ambiquity codes are codes that mean any of the two or any of the three nucleotides. Normally, purine (R, A or G) is
+complemented into pyrimidine (Y, C or T) and amino (M, C or A) is complemented into keto (K, T or G). Differently, weak (W, A
+or T, pairs with the two hydrogen bonds) and strong (S, G or C, pairs with three hydrogen bonds) are normally not swapped
+during complementation, leaving the S and W codes unchanged instead. This is logical as both a nucleotide and its complement
+use the same number of bonds to make a complementing pair.
 
 
 
